@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62f10b4ccddf91a1",
+            "id": "e7028a62cf2551a3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2025-12-11 23.17.06.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-12-12 00.56.49.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-11 23.17.06.excalidraw"
+              "title": "Drawing 2025-12-12 00.56.49.excalidraw"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drawing 2025-12-11 23.17.06.excalidraw.md",
+            "file": "Excalidraw/Drawing 2025-12-12 00.56.49.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,8 +153,12 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "62f10b4ccddf91a1",
+  "active": "e7028a62cf2551a3",
   "lastOpenFiles": [
-    "Drawing 2025-12-11 23.17.06.excalidraw.md"
+    "Drawing 2025-12-11 23.17.06.excalidraw.md",
+    "Test.md",
+    "Excalidraw/Drawing 2025-12-12 00.56.49.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-12 00.56.30.excalidraw.md",
+    "Excalidraw"
   ]
 }
