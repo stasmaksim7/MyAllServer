@@ -25,12 +25,14 @@
             "id": "432bd34907f4b553",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2025-12-12 08.10.57.excalidraw.md"
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-12 08.10.57.excalidraw"
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ],
@@ -170,8 +172,8 @@
   },
   "active": "432bd34907f4b553",
   "lastOpenFiles": [
-    "Test.md",
     "Drawing 2025-12-12 08.10.57.excalidraw.md",
+    "Test.md",
     "Excalidraw/Drawing 2025-12-12 00.56.49.excalidraw.md",
     "Drawing 2025-12-11 23.17.06.excalidraw.md",
     "Excalidraw/Drawing 2025-12-12 00.56.30.excalidraw.md",
