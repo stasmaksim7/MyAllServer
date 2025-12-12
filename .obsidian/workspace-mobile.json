@@ -11,12 +11,14 @@
             "id": "e7028a62cf2551a3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-12-12 00.56.49.excalidraw.md"
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-12 00.56.49.excalidraw"
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
@@ -156,6 +158,7 @@
   "active": "e7028a62cf2551a3",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-12-12 00.56.49.excalidraw.md",
+    "Test.md",
     "Drawing 2025-12-11 23.17.06.excalidraw.md",
     "Test.md",
     "Excalidraw/Drawing 2025-12-12 00.56.30.excalidraw.md",
