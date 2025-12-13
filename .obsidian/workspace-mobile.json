@@ -11,10 +11,12 @@
             "id": "ca49fcdbcbefd724",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-13 13.11.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-13 13.11.02.excalidraw"
             }
           }
         ]
@@ -94,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drawing 2025-12-12 20.37.14.excalidraw.excalidraw",
+            "file": "Excalidraw/Drawing 2025-12-13 13.11.02.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,6 +155,8 @@
   },
   "active": "ca49fcdbcbefd724",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-13 13.11.02.excalidraw.excalidraw",
+    "Excalidraw/Drawing 2025-12-13 13.11.02.excalidraw.md",
     "Excalidraw/Drawing 2025-12-13 09.47.01.excalidraw.md",
     "Drawing 2025-12-12 20.37.14.excalidraw.excalidraw",
     "Drawing 2025-12-12 20.37.14.excalidraw.md",
