@@ -1,0 +1,436 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.18.0",
+	"elements": [
+		{
+			"id": "mxpzL7Fu",
+			"type": "text",
+			"x": 395.5912195259723,
+			"y": 112.53040650865742,
+			"width": 433,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "a2",
+			"roundness": null,
+			"seed": 307021134,
+			"version": 91,
+			"versionNonce": 1530667662,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1765561231826,
+			"link": null,
+			"locked": false,
+			"text": "Тема:",
+			"rawText": "Тема:",
+			"fontSize": 20,
+			"fontFamily": 5,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Тема:",
+			"autoResize": false,
+			"lineHeight": 1.25
+		},
+		{
+			"id": "7VyMia5npvgcGhfZ0zJih",
+			"type": "rectangle",
+			"x": 404.3759308298686,
+			"y": 147.64387385315752,
+			"width": 411.4666023407215,
+			"height": 690.8841542400135,
+			"angle": 6.273629236329748,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "a3",
+			"roundness": {
+				"type": 3
+			},
+			"seed": 399718094,
+			"version": 442,
+			"versionNonce": 924267282,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1765604531083,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "4UZKsXFV",
+			"type": "text",
+			"x": 414.7844128332868,
+			"y": 165.6631237199722,
+			"width": 50.57999801635742,
+			"height": 25,
+			"angle": 6.273629236329748,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aH",
+			"roundness": null,
+			"seed": 1990744274,
+			"version": 77,
+			"versionNonce": 1711413902,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1765604637459,
+			"link": null,
+			"locked": false,
+			"text": "Опр. ",
+			"rawText": "Опр. ",
+			"fontSize": 20,
+			"fontFamily": 5,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Опр. ",
+			"autoResize": true,
+			"lineHeight": 1.25
+		},
+		{
+			"id": "SCob2ozgBIj0L5bT46k4k",
+			"type": "freedraw",
+			"x": 484.84368830704716,
+			"y": 222.86758994623278,
+			"width": 143.02708281855143,
+			"height": 31.48730554587513,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aI",
+			"roundness": null,
+			"seed": 532924749,
+			"version": 61,
+			"versionNonce": 1290323651,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1765612243562,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.5336831448453268,
+					0
+				],
+				[
+					2.134732579381307,
+					0
+				],
+				[
+					2.6684157242266906,
+					0
+				],
+				[
+					2.6684157242266906,
+					0.5336831448453552
+				],
+				[
+					2.6684157242266906,
+					1.067366289690682
+				],
+				[
+					3.2020988690720174,
+					2.668415724226719
+				],
+				[
+					3.2020988690720174,
+					3.735782013917401
+				],
+				[
+					3.735782013917401,
+					4.803148303608083
+				],
+				[
+					4.269465158762728,
+					5.870514593298765
+				],
+				[
+					4.269465158762728,
+					6.4041977381440915
+				],
+				[
+					4.8031483036080544,
+					6.4041977381440915
+				],
+				[
+					5.336831448453381,
+					6.4041977381440915
+				],
+				[
+					5.870514593298708,
+					6.4041977381440915
+				],
+				[
+					8.005247172680129,
+					4.269465158762728
+				],
+				[
+					11.20734604175209,
+					1.067366289690682
+				],
+				[
+					16.544177490205584,
+					-2.668415724226719
+				],
+				[
+					27.217840387112346,
+					-8.538930317525455
+				],
+				[
+					33.622038125256495,
+					-12.808395476288183
+				],
+				[
+					41.62728529793662,
+					-17.07786063505091
+				],
+				[
+					46.43043360154468,
+					-18.678910069586948
+				],
+				[
+					51.23358190515273,
+					-20.279959504122957
+				],
+				[
+					53.36831448453415,
+					-21.34732579381364
+				],
+				[
+					54.43568077422481,
+					-21.34732579381364
+				],
+				[
+					54.96936391907013,
+					-21.34732579381364
+				],
+				[
+					55.50304706391546,
+					-21.34732579381364
+				],
+				[
+					55.50304706391546,
+					-20.81364264896831
+				],
+				[
+					55.50304706391546,
+					-20.279959504122957
+				],
+				[
+					56.03673020876079,
+					-19.212593214432275
+				],
+				[
+					56.03673020876079,
+					-17.07786063505091
+				],
+				[
+					56.570413353606114,
+					-16.01049434536023
+				],
+				[
+					56.570413353606114,
+					-14.943128055669547
+				],
+				[
+					57.10409649845144,
+					-11.741029186597501
+				],
+				[
+					57.63777964329688,
+					-7.4715640278347735
+				],
+				[
+					58.17146278814221,
+					-3.2020988690720458
+				],
+				[
+					59.23882907783286,
+					2.134732579381364
+				],
+				[
+					60.306195367523515,
+					5.33683144845341
+				],
+				[
+					61.37356165721417,
+					8.005247172680129
+				],
+				[
+					61.90724480205961,
+					9.07261346237081
+				],
+				[
+					62.440927946904935,
+					9.606296607216137
+				],
+				[
+					64.04197738144092,
+					10.139979752061492
+				],
+				[
+					70.97985826443039,
+					9.606296607216137
+				],
+				[
+					80.5861548716465,
+					7.4715640278347735
+				],
+				[
+					93.92823349278001,
+					4.269465158762728
+				],
+				[
+					103.53453009999623,
+					1.601049434536037
+				],
+				[
+					113.14082670721234,
+					-1.067366289690682
+				],
+				[
+					116.87660872112974,
+					-2.134732579381364
+				],
+				[
+					124.88185589380987,
+					-4.803148303608083
+				],
+				[
+					131.81973677679923,
+					-6.4041977381440915
+				],
+				[
+					137.15656822525273,
+					-8.005247172680129
+				],
+				[
+					140.3586670943247,
+					-8.538930317525455
+				],
+				[
+					141.42603338401545,
+					-8.538930317525455
+				],
+				[
+					141.95971652886078,
+					-8.538930317525455
+				],
+				[
+					142.4933996737061,
+					-8.538930317525455
+				],
+				[
+					143.02708281855143,
+					-8.538930317525455
+				],
+				[
+					143.02708281855143,
+					-8.005247172680129
+				],
+				[
+					143.02708281855143,
+					-7.4715640278347735
+				],
+				[
+					143.02708281855143,
+					-6.937880882989447
+				],
+				[
+					143.02708281855143,
+					-6.4041977381440915
+				],
+				[
+					143.02708281855143,
+					-6.4041977381440915
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 0.5,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 5,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemArrowType": "round",
+		"currentItemFrameRole": null,
+		"scrollX": -238.28207538849946,
+		"scrollY": -51.55530045087823,
+		"zoom": {
+			"value": 1.873771
+		},
+		"currentItemRoundness": "round",
+		"gridSize": 20,
+		"gridStep": 5,
+		"gridModeEnabled": false,
+		"gridColor": {
+			"Bold": "rgba(26, 26, 26, 1)",
+			"Regular": "rgba(0, 0, 0, 1)"
+		},
+		"currentStrokeOptions": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true,
+			"markerName": true,
+			"markerEnabled": true
+		},
+		"objectsSnapModeEnabled": false,
+		"activeTool": {
+			"type": "freedraw",
+			"customType": null,
+			"locked": false,
+			"fromSelection": false,
+			"lastActiveTool": null
+		},
+		"disableContextMenu": false
+	},
+	"prevTextMode": "parsed",
+	"files": {}
+}

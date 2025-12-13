@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a133b7564f4c85ee",
+        "id": "0f542741e3ac93a4",
         "type": "tabs",
         "children": [
           {
-            "id": "af2f8da89bb50223",
+            "id": "ca49fcdbcbefd724",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2025-12-12 11.53.47.excalidraw.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-12 11.53.47.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -96,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drawing 2025-12-12 08.10.57.excalidraw.md",
+            "file": "Drawing 2025-12-12 20.37.14.excalidraw.excalidraw",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,10 +151,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "af2f8da89bb50223",
+  "active": "ca49fcdbcbefd724",
   "lastOpenFiles": [
-    "Drawing 2025-12-12 13.04.03.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 09.47.01.excalidraw.md",
+    "Drawing 2025-12-12 20.37.14.excalidraw.excalidraw",
+    "Drawing 2025-12-12 20.37.14.excalidraw.md",
     "Drawing 2025-12-12 11.53.47.excalidraw.excalidraw",
+    "Excalidraw/Drawing 2025-12-13 08.46.08.excalidraw.md",
+    "Excalidraw",
+    "Drawing 2025-12-12 13.04.03.excalidraw.md",
     "Drawing 2025-12-12 13.04.03.excalidraw.excalidraw",
     "Drawing 2025-12-12 11.53.47.excalidraw.md",
     "Excalidraw/Drawing 2025-12-12 00.56.30.excalidraw.md",
@@ -169,7 +172,6 @@
     "Drawing 2025-12-12 11.53.47.excalidraw.excalidraw.excalidraw.excalidraw",
     "Drawing 2025-12-12 11.53.47.excalidraw.excalidraw.excalidraw.md",
     "Drawing 2025-12-12 11.53.47.excalidraw.excalidraw.excalidraw",
-    "Без названия.base",
-    "Excalidraw"
+    "Без названия.base"
   ]
 }
